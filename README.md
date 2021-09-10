@@ -6,11 +6,12 @@ Core manifests for [Scoop](https://scoop.sh), the Windows command-line installer
 
 Just `scoop install <manifest>`. This is the default bucket for Scoop and is added by default.
 
+
+## Overview
+
 ```ImageMagick
 https://developers.google.com/speed/docs/insights/OptimizeImages#overview
 ```
-
-## Overview
 
 Images often account for most of the downloaded bytes on a page. As a result, optimizing images can often yield some of the largest byte savings and performance improvements: the fewer bytes the browser has to download, the less competition there is for the client's bandwidth and the faster the browser can download and render content on the screen.
 
